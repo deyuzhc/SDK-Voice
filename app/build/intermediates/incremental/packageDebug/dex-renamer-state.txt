@@ -1,0 +1,7 @@
+#Tue Apr 11 21:22:45 CST 2017
+base.0=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d15a1c787e9f80912bc1cb8a93d7d40cff93a982
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d80137193425c97a97023d4c5bef3a88ebbc1591\\classes.dex
+base.1=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d80137193425c97a97023d4c5bef3a88ebbc1591
+file.0=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d15a1c787e9f80912bc1cb8a93d7d40cff93a982\\classes.dex

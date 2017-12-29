@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:2:1-97:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:5:5-34
+		INJECTED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Administrator\.android\build-cache\80141c3d0c55db4ae03758641bc0aed782c56b48\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:24:22-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:26:22-65
+application
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:28:5-95:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Administrator\.android\build-cache\80141c3d0c55db4ae03758641bc0aed782c56b48\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:29:9-45
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:31:9-33:56
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:33:13-53
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:32:13-52
+activity#com.baidu.android.voice.MainActivity
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:35:9-45:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:38:13-45
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:36:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.baidu.android.voice.DialogTipsDemoActivity
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:46:9-57:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:49:13-63
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:50:13-43
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:48:13-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:47:13-74
+intent-filter#android.intent.action.MAIN+baidu.voicedemo.intent.category.SAMPLE_CODE
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:52:13-56:29
+category#baidu.voicedemo.intent.category.SAMPLE_CODE
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:55:17-88
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:55:27-85
+activity#com.baidu.android.voice.ExternalAudioDemoActivity
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:58:9-69:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:62:13-60
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:60:13-76
+	android:description
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:61:13-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:59:13-77
+activity#com.baidu.android.voice.ApiDemoActivity
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:70:9-81:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:74:13-55
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:72:13-76
+	android:description
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:73:13-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:71:13-67
+activity#com.baidu.android.voice.DemoListActivity
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:82:9-85:52
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:85:13-49
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:84:13-85
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:83:13-68
+service#com.baidu.location.f
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:87:9-94:19
+	android:enabled
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:89:13-35
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:90:13-38
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:88:13-48
+intent-filter#com.baidu.android.speech.demo.location.service
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:91:13-93:29
+action#com.baidu.android.speech.demo.location.service
+ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:92:17-89
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\src\main\AndroidManifest.xml:92:25-86

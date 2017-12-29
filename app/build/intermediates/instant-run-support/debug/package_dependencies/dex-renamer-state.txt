@@ -1,0 +1,13 @@
+#Tue Apr 11 20:48:33 CST 2017
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.0_7160398b887d687f76eebb7f8728886a5db9b093
+base.2=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.0_275f272cc5ed30701032522cd5129f3329e48fb0
+base.1=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\VoiceRecognition_4f9cd0ad3be64455887a69ed3fdc36da09de253b
+base.0=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b4dbe8f8fa867cf513436211e291c5c24ff01c05
+file.3=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.0_7160398b887d687f76eebb7f8728886a5db9b093\\classes.dex
+file.2=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.0_275f272cc5ed30701032522cd5129f3329e48fb0\\classes.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\VoiceRecognition_4f9cd0ad3be64455887a69ed3fdc36da09de253b\\classes.dex
+file.0=C\:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b4dbe8f8fa867cf513436211e291c5c24ff01c05\\classes.dex

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+
+    </FrameLayout>
+
+    <!--声纹模拟控件，在用户说话时可见-->
+    <com.baidu.android.voice.WaveView
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="80dp"
+        android:visibility="gone"
+        app:color="@color/line"
+        app:precise="200" />
+
+
+    <!--用于显示记事表项的滑动布局-->
+    <ScrollView
+        android:id="@+id/VoiceScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="6dp">
+
+        <LinearLayout
+            android:id="@+id/VoiceContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+    <Button
+        android:id="@+id/start_diolog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="@string/start_dialog"
+        android:visibility="gone" />
+
+    <!--用于放置开始按钮-->
+    <fragment
+        android:id="@+id/control_panel"
+        android:name="com.baidu.android.voice.ControlPanelFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="80dp"
+        android:layout_marginRight="60dp" />
+
+</RelativeLayout>

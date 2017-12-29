@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="dialog_show_tips_onstart"
+        android:summary="@string/dialog_show_tips_onstart_summary"
+        android:title="@string/dialog_show_tips_onstart" >
+    </CheckBoxPreference>
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="dialog_show_tip_onsilent"
+        android:summary="@string/dialog_show_tip_onsilent_summary"
+        android:title="@string/dialog_show_tip_onsilent" >
+    </CheckBoxPreference>
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="dialog_show_help_onsilent"
+        android:summary="@string/dialog_show_help_onsilent_summary"
+        android:title="@string/dialog_show_help_onsilent" >
+    </CheckBoxPreference>
+
+    <Preference android:title="@string/start_dialog" >
+        <intent
+            android:action="baidu.voicedemo.intent.action.START"
+            android:targetPackage="com.baidu.android.voicedemo"
+            android:targetClass="com.baidu.android.voicedemo.DialogTipsDemoActivity" >
+        </intent>
+    </Preference>
+
+</PreferenceScreen>

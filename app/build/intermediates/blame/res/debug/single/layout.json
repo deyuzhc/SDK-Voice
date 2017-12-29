@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\src\\main\\res\\layout\\activity_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_container.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\src\\main\\res\\layout\\activity_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipebutton.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\src\\main\\res\\layout\\swipebutton.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\control_panel_fragment.xml",
+        "source": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\src\\main\\res\\layout\\control_panel_fragment.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\src\\main\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\api_demo_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\src\\main\\res\\layout\\api_demo_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_container.xml",
+        "source": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\src\\main\\res\\layout\\activity_container.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\api_demo_activity.xml",
+        "source": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\src\\main\\res\\layout\\api_demo_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mean.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\src\\main\\res\\layout\\activity_mean.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice.xml",
+        "source": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\src\\main\\res\\layout\\activity_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\control_panel_fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\VoiceRecognitionDemo2\\app\\src\\main\\res\\layout\\control_panel_fragment.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
+        "source": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\src\\main\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mean.xml",
+        "source": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\src\\main\\res\\layout\\activity_mean.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipebutton.xml",
+        "source": "D:\\FilePath\\Android_Projects\\VoiceRecognitionDemo\\app\\src\\main\\res\\layout\\swipebutton.xml"
+    }
+]

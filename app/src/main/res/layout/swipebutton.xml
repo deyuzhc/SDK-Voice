@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swipe_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="7dp">
+
+
+    <TextView
+        android:id="@+id/Voice_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/ripple_item"
+        android:longClickable="false"
+        android:paddingLeft="15dp"
+        android:text="hello_world"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+</RelativeLayout>

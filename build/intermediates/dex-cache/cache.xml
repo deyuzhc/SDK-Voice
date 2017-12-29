@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\libs\VoiceRecognition.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99844d9e4943e9f0d59e94423ec9c2cef5d36db8">
+        <dex dex="C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\build\intermediates\transforms\dex\debug\folders\1000\2\VoiceRecognition_4f9cd0ad3be64455887a69ed3fdc36da09de253b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d80137193425c97a97023d4c5bef3a88ebbc1591\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70720b6390d115d8fdc00a3440984e729fa3b7d9">
+        <dex dex="C:\Users\Administrator\Desktop\VoiceRecognitionDemo2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d15a1c787e9f80912bc1cb8a93d7d40cff93a982\classes.dex" />
+    </item>
+
+</items>
